@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "961678516241",
+    "project_id": "email-cda4a",
+    "storage_bucket": "email-cda4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961678516241:android:fbd585f0a0e8e1075651b0",
+        "android_client_info": {
+          "package_name": "com.example.car_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961678516241-lr4s7matgsa7soa8k8ih8k1dffts1rvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.car_management_system",
+            "certificate_hash": "b8c77d2eeb3c49998253925152aee164abc49780"
+          }
+        },
+        {
+          "client_id": "961678516241-eh4vre124n9rvf3sov2rrdjl2lj2ds1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AIg2epDzjYX8bxg2iMnpIG-e7kiWcnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961678516241-eh4vre124n9rvf3sov2rrdjl2lj2ds1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
